@@ -1,3 +1,2 @@
-#Readme 
-
-This is just a sample repo
+# intro-repo
+My first repository. Nothing major.
